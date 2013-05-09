@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.13'
-
+gem 'dynamic_form', '1.1.4'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
@@ -38,6 +38,7 @@ gem 'jquery-rails'
 # gem 'debugger'
 
 # To use testing
+
 
 group :test, :development do
 	gem 'rspec-rails', '~> 2.11'
