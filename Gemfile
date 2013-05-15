@@ -53,4 +53,5 @@ group :test do
 	gem 'factory_girl', '2.6.4'
 	gem 'simplecov', :require => false
 	gem 'devise', '2.1.1'
+	gem 'email_spec', '1.2.1'
 end
