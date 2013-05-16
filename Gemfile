@@ -38,6 +38,7 @@ gem 'jquery-rails'
 # gem 'debugger'
 
 # To use testing
+gem 'devise', '2.1.1'
 
 
 group :test, :development do
@@ -52,6 +53,5 @@ group :test do
 	gem 'capybara', '1.1.2'
 	gem 'factory_girl', '2.6.4'
 	gem 'simplecov', :require => false
-	gem 'devise', '2.1.1'
 	gem 'email_spec', '1.2.1'
 end
