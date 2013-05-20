@@ -71,11 +71,11 @@
         1,
         null,
         1,
-        8,
         14,
+        24,
         null,
         null,
-        6,
+        10,
         null,
         null,
         null,
@@ -224,12 +224,12 @@
         1,
         null,
         1,
-        57,
+        59,
         null,
         null,
         null,
         1,
-        101,
+        103,
         null,
         null
       ],
@@ -244,6 +244,7 @@
         null
       ],
       "/Users/anthonyzullo/Desktop/code/ticketee/app/controllers/tickets_controller.rb": [
+        1,
         1,
         1,
         1,
@@ -299,14 +300,21 @@
         null,
         null,
         1,
-        20,
+        6,
+        2,
+        2,
+        null,
+        null,
+        null,
+        1,
+        22,
         null,
         1,
         1,
         null,
         null,
         1,
-        11,
+        13,
         null,
         null,
         null
@@ -337,6 +345,6 @@
         null
       ]
     },
-    "timestamp": 1369012174
+    "timestamp": 1369012838
   }
 }
