@@ -40,6 +40,7 @@ gem 'jquery-rails'
 # To use testing
 gem 'devise', '2.1.1'
 gem 'cancan', '1.6.7'
+gem 'paperclip', '2.7.0'
 
 
 group :test, :development do
