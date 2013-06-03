@@ -308,6 +308,7 @@
         null,
         1,
         5,
+        20,
         null,
         null,
         1,
@@ -390,6 +391,7 @@
         1,
         1,
         1,
+        1,
         null
       ],
       "/Users/anthonyzullo/Desktop/code/ticketee/app/controllers/users_controller.rb": [
@@ -397,8 +399,14 @@
         1,
         null,
         null
+      ],
+      "/Users/anthonyzullo/Desktop/code/ticketee/app/models/asset.rb": [
+        1,
+        1,
+        1,
+        null
       ]
     },
-    "timestamp": 1370290683
+    "timestamp": 1370293559
   }
 }
