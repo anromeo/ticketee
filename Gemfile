@@ -5,9 +5,8 @@ gem 'dynamic_form', '1.1.4'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
-gem 'sqlite3'
 
-
+gem 'pg', group: :production
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
@@ -50,6 +49,7 @@ group :test, :development do
 	gem 'pry-debugger'
 	gem 'launchy'
 	gem 'database_cleaner', '0.7.2'
+	gem 'sqlite3'
 end
 
 group :test do
