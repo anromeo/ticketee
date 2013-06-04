@@ -213,6 +213,7 @@ DEPENDENCIES
   rails (= 3.2.13)
   rspec-rails (~> 2.11)
   sass-rails (~> 3.2.3)
+  selenium-webdriver
   simplecov
   sqlite3
   uglifier (>= 1.0.3)
