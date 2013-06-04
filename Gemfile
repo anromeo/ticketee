@@ -49,6 +49,7 @@ group :test, :development do
 	gem 'pry-doc'
 	gem 'pry-debugger'
 	gem 'launchy'
+	gem 'database_cleaner', '0.7.2'
 end
 
 group :test do
