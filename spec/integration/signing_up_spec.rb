@@ -7,7 +7,7 @@ feature 'Signing up' do
 		fill_in "Email", :with => "user@ticketee.com"
 		fill_in "Password", :with => "password"
 		fill_in "Password confirmation", :with => "password"
-		click_button "Sign up"
+    click_button "Sign Up"
 		message = "Please confirm your account before signing in."
 		page.should have_content(message)
 	end

@@ -3,3 +3,6 @@
 
 en:
   hello: "Hello world"
+  ticket:
+    edit: "Change this Ticket"
+    delete: "Kill ticket"

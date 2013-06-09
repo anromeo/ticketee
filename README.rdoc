@@ -1,1 +1,9 @@
-This is a simple app to help you keep track of the dates when your homework
+==Ticketee App
+
+This app allows for users to:
+*Create accounts
+*Create different projects
+*Create tickets for those projects
+*Upload files to those tickets
+
+This was created using the beta book Rails in Action for my Codefellows class.
